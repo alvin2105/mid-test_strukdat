@@ -9,7 +9,15 @@ program : mid-test case 1
 nama time_
 easal daerah
 fungsi update jumlah goal entry goal
-traversal desc*/
+traversal desc
+
+Chubu miyazaki
+Furano : hakaido
+Hirado : Nagasaki
+Minauiwa : ehime
+Toho : suginami
+Nankatsu : sizok
+*/
 
 
 #include<iostream>
